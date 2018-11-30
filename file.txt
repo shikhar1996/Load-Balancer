@@ -1,0 +1,1 @@
+THis is a sample file to be transferred from server to client.
